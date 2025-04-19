@@ -50,7 +50,7 @@ stack-data==0.6.3
 statsmodels==0.14.4
 sympy==1.13.1
 threadpoolctl==3.5.0
-torch==2.5.1+cu124
+torch==2.6.0+cu124
 torchaudio==2.5.1+cu124
 torchvision==0.20.1+cu124
 tornado==6.4.2
